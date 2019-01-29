@@ -13,6 +13,7 @@ permalink: /about/
 Hi! My name is Tiara Tan, hence the username TiaraIsTan. I'm studying Computer Science at NYU.
 I was born and raised on Long Island, but both of my parents are from Taiwan. I go back fairly often and I would say it's one of my favorite places on Earth. If you ever go, I would definitely recommend Taipei if you're a fan of the city and Kenting if you're a fan of tropical areas like Hawaii. Both have very fun night markets, so I would suggest visiting night markets wherever you end up.
 
+### Hobbies
 In my free time, I have various hobbies that I try to get better at.
 
 | Hobby   | Skill Level  | What I'm Up To                                           |
@@ -22,6 +23,7 @@ In my free time, I have various hobbies that I try to get better at.
 | Baking  | Beginner     | Sometimes my macarons turn out okay                      |
 | Dancing | Beginner     | Taking foundational hip-hop classes at House of Movement |
 
+### Work Experience
 I've also done a couple of internships that I found to be a lot of fun. Here's how I've spent my summers.
 
 | Dates        | Company | Team         | Front or Back? | What I Did                                                                     |
