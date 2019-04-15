@@ -26,4 +26,5 @@ Replace the first row with your contribution.
 |  3   | [Link](https://github.com/nyu-ossd-s19/FacebookPanic/issues/5)    | Browser Add-on    |   I attempted to add a new feature.   |
 |  8   | [Link](https://github.com/google/blockly/issues/1101) | Issue Comment | I checked if the issue was supposed to be closed or not; it was not. |
 |  8   | [Link](https://github.com/google/blockly/pull/2357) | Pull Request | I created a pull request to fix an issue and it was accepted and merged. |
-|  9   | [Link](https://github.com/google/blockly/issues/1102) | Issue Comment | I checked if the issue was still open; it is, but help is currently not wanted. | 
+|  9   | [Link](https://github.com/google/blockly/issues/1102) | Issue Comment | I checked if the issue was still open; it is, but help is currently not wanted. |
+|  9   | [Link](https://en.wikipedia.org/w/index.php?title=Killer_Queen_(video_game)&oldid=891585086) | Wikipedia Edit | I contributed some information on this video game and corrected a minor detail. |
